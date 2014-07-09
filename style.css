@@ -1,10 +1,28 @@
 h1{
 	font-size: 28px;
 	font-weight: bold;
-	color: #0099FF;
+	color: #FFF;
    background-color: #00F;
 }
 
 body{
 	background-color: #BBB;
+}
+
+div{
+	background-color: #00F;
+   color: #FFF;
+	margin: 10px;
+}
+
+.unclicked-box{
+	background-color: grey;
+	height: 40px;
+   width: 40px;
+}
+
+.clicked-box{
+	background-color: blue;
+	height:40px;
+	width:40px;
 }
